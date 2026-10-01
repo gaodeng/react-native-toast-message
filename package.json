@@ -16,7 +16,6 @@
     "toast"
   ],
   "scripts": {
-    "prepare": "husky install",
     "setup": "./scripts/setup.sh",
     "bump": "./scripts/bump.sh",
     "build": "rm -rf ./lib && tsc",
